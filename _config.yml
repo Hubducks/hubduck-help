@@ -1,0 +1,22 @@
+title: HubDuck Help
+description: Product and testing documentation for HubDuck
+theme: null
+remote_theme: just-the-docs/just-the-docs
+
+# Enable search
+search_enabled: true
+
+# Just-the-Docs options
+color_scheme: light
+heading_anchors: true
+
+# GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+aux_links:
+  "HubDuck Frontend":
+    - "https://github.com/Hubducks/hubduck-frontend"
+  "HubDuck Backend":
+    - "https://github.com/Hubducks/hubduck-backend"
+
