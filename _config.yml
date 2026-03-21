@@ -1,22 +1,40 @@
 title: HubDuck Help
-description: Product and testing documentation for HubDuck
+description: Help centre for HubDuck — the email assistant for schools
 theme: null
 remote_theme: just-the-docs/just-the-docs
 
-# Enable search
-search_enabled: true
+url: "https://hubducks.github.io"
+baseurl: "/hubduck-help"
 
-# Just-the-Docs options
+# Search
+search_enabled: true
+search.button: true
+
+# Theme
 color_scheme: light
 heading_anchors: true
+
+# Navigation
+nav_sort: order
+
+# Footer
+footer_content: "&copy; 2026 HubDuck. Built for schools in Ireland."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # GitHub Pages
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
+# Links in header
 aux_links:
-  "HubDuck Frontend":
-    - "https://github.com/Hubducks/hubduck-frontend"
-  "HubDuck Backend":
-    - "https://github.com/Hubducks/hubduck-backend"
+  "Go to HubDuck":
+    - "https://www.hubduck.net"
 
+aux_links_new_tab: true
+
+# Logo (text-based)
+logo: "🦆 HubDuck Help"
