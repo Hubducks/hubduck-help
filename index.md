@@ -10,6 +10,27 @@ HubDuck is the email assistant for schools. Forward your school emails to a duck
 
 ---
 
+## The problem HubDuck solves
+
+Schools receive dozens of important emails every week — from the Department of Education, Tusla, PDST, county councils, training providers, and parents. These emails contain critical deadlines, policy requirements, and events.
+
+But today, **no one knows who actually read them.**
+
+A principal forwards a DES circular to staff. Did 15 teachers read it? Did 3? Did anyone add the training date to their calendar? There's no way to tell. So the principal asks around at the next staff meeting — "Did everyone see the email about the child protection training?" — and hopes for the best.
+
+**With HubDuck, the principal can see:**
+- Who acknowledged each email
+- Who marked their actions as done
+- Who added events to their calendar
+- Which training opportunities got uptake — and which didn't
+- Overall engagement rates across the team
+
+This means the principal can **invest more in what works** — if 12 out of 15 teachers added a PDST workshop to their calendar, book more like it. If only 2 acknowledged the anti-bullying policy update, follow up with the specific people who missed it.
+
+**No more guessing. No more asking around. Just certainty.**
+
+---
+
 ## Getting Started
 
 New to HubDuck? Start here:
