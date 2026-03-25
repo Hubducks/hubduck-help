@@ -51,6 +51,8 @@ New to HubDuck? Start here:
 - [Policy management](docs/policies) — Create, publish, and track policy compliance
 - [Digest settings](docs/digest-settings) — Configure when and how digests are sent
 - [Duck settings](docs/duck-settings) — Access modes, sending permissions, and general configuration
+- [Bulk archive emails](docs/bulk-archive) — Select and archive multiple emails at once
+- [Edit AI summary](docs/edit-ai-summary) — Correct inaccurate AI-generated summaries
 
 ## Key Concepts
 
